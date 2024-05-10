@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+          <h1><b>My Superpowers</b></h1>
+<h3>Usually people take some time or hours cleaning and organizing, but it only takes me a snap of a finger and everything is clean and where it belongs.  
+<img src=”https://img-cdn.pixlr.com/image-generator/history/663cf13f1eeabd1c0202764d/413d400a-ed16-4305-babf-8431b7a204ab/preview.webp” alt=”Cleaning”>
+<p>Life can get messy and we don’t always have time to clean up. Not only do you have to clean but you also have to organize and make sure everything is where it belong</p> 
+<li>can save time</li>
+<li>great for emergencies</li>
+<li>saves you from stress</li>  <table><br><tr><th>with power</th><th>without power</br></th></tr>
+<tr><td>Take one second to clean up</td> <td>Take many hours to clean up</td></tr>
+ <tr><td>Have a lot of free time</td><td>Limited free time </td></tr> </table>
+</body>
+</html>
